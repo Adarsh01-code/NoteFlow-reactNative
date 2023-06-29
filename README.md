@@ -1,6 +1,6 @@
 
 # NoteFlow-reactNative
-Task Flow is a powerful app that enables users to effortlessly track tasks and jot down notes, empowering them to establish a structured routine and stay focused on their daily goals.
+**Note-Flow** is a powerful app that enables users to effortlessly track tasks and jot down notes, empowering them to establish a structured routine and stay focused on their daily goals.
 
 This application is made using **React-Native**.
 
