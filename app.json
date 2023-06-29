@@ -1,13 +1,14 @@
 {
   "expo": {
-    "name": "animated-todo",
-    "slug": "animated-todo",
+    "name": "NoteFlow",
+    "slug": "note-flow",
+    "description":"Boost Your Productivity with NoteFlow",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/squareLogo.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/previewLogo.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
